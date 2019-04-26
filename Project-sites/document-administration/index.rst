@@ -1,5 +1,5 @@
-## Document Management
-
+Document Managment
+===========================
 Projectsites also provides the ability to manage documents using metadata.
 
    ![Floating panel](department.png)

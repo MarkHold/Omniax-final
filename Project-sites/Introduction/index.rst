@@ -1,4 +1,6 @@
-## Introduction
+Introduction
+===========================
+
 
 This documentation is intended to explain the purpose and functionality of OmniaX Project-Sites. 
 

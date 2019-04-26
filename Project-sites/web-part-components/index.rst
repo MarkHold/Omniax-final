@@ -1,4 +1,6 @@
-## Project-sites Web Components
+Project-sites web components
+===========================
+
 
 Project-sites has four major web components that can be used for the purposes of displaying documents and processes. 
 
@@ -10,10 +12,9 @@ In order to access these components, follow these steps:
  ![Edit Page](edit-page.png)
 
 3. Click on Add a Web Part.
-4. Scroll down through the folders in the Categories section to OmniaX - Project Sites, click on it and you will see the parts to the right.
+4. Scroll down through the folders in the Categories section to OmniaX - Project-sites, click on it and you will see the parts to the right.
 
 ![Testing Process](project-sites-web-components.png)
-
 
 #### OmniaX Process Viewier
 
