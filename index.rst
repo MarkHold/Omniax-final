@@ -12,3 +12,4 @@ Topics
 
    introduction/index
    search-page/index
+   setup/index

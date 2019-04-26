@@ -4,7 +4,7 @@ Our Documents
 
 Projectsites provides the ability to view and access all the documents that have created using projectsites in a straight forward way.
 
-  ![Metadata](our-documents.png)
+  ![alt text](our-documents.png "alt text")
 
 image:: our-documents.png
 
