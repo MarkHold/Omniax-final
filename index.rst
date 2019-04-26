@@ -11,12 +11,9 @@ Topics
    :titlesonly:
 
    introduction/index
-   my-workplace/index
-   team-collaboration/index
-   people-and-networking/index
-   web-content-management/index
-   document-management/index
-   quality-management/index
-   tenant-administration/index
-   release-notes/index
-   contribute-to-doc/index
+   Project-sites/Document Administration/index
+   Project-sites/Introduction/index
+   Project-sites/Setup/index
+   Project-sites/View All Documents/index
+   Project-sites/Web Part components/index
+
