@@ -6,7 +6,7 @@ Projectsites provides the ability to view and access all the documents that have
 
   ![Metadata](our-documents.png)
 
-.. image:: our-documents.png.png
+.. image:: our-documents.png
 
 Here we can see all the documents that have been created using project sites, as well as the metadata that these documents have been tagged with. This user has chosen to create three maps with the names our projects, our departments,
 our tools and specificy which documents they should contain. 
@@ -16,7 +16,7 @@ There is also a filtering option that can be used to view documents of a specifi
 
    ![Metadata](filter.png)
 
-.. image:: filter.png.png
+.. image:: filter.png
 
 Here we can filter the documents by function, owned by, type of document and security class. These metadata fields have been specified by the user to be included in all documents that
 are created using projectsites.
