@@ -11,9 +11,9 @@ Topics
    :titlesonly:
 
    introduction/index
+   setup/index
    Project-sites/Document Administration/index
-   Project-sites/Introduction/index
-   Project-sites/Setup/index
-   Project-sites/View All Documents/index
-   Project-sites/Web Part components/index
+   Introduction/index
+   View All Documents/index
+   Web Part components/index
 
