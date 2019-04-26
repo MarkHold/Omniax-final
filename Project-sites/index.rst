@@ -1,4 +1,4 @@
-Projectsites
+Project-sites
 ===========================
 
 .. toctree::
