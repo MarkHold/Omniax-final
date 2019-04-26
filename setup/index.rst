@@ -15,7 +15,7 @@ Project-sites Setup
 
 4. Once the file has been uploaded, make sure to fill in the processidtemplate1 field with the correct template it. It can be found in the process-viewer of your Omnia QMS site. 
 
-    ![Testing Process](testing-process.png "text text")
+.. image:: testprocess.png
 
 5. Make sure to fill in the Omnia QMS site url, which is the site url of your Omnia QMS app that you wish to activate project-sites on. 
 
