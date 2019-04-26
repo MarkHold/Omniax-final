@@ -62,6 +62,7 @@ Project-sites Setup
 
     ![Site collection](sitecollection-features-sitetemplate.png) 
     ![Site](site-features-sitetemplate.png)
+
 .. image:: sitecollection-features-sitetemplate.png
 .. image:: site-features-sitetemplate.png
 
