@@ -12,5 +12,7 @@ Topics
 
    introduction/index
    search-page/index
+   document-adminstration/index
    setup/index
+   web-part-components/index
    project-sites/index
