@@ -42,9 +42,11 @@ Project-sites Setup
 - OmniaX Project Site - Example Site
  
 12. Go To Omnia Admin > Site Templates > Add template. 
-     ![omnia site template properties](site-template-settings-general.png)
 
 .. image:: site-template-settings-general.png
+
+.. image:: testprocess.png
+
 
 13. Name the template “site template 1”. 
 
