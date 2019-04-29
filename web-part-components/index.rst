@@ -41,7 +41,8 @@ After adding it as a component, we can configure it using the following options:
 .. image:: processtab.png
 
 - Tab settings - Show Tool Tab allows us to preview the documents that are attached to a specific process as seen in the example below: 
-.. image:: Tool-tab.png
+
+.. image:: tool-panel.png
 
 - Tab settings - Show Task Tab
 
@@ -82,6 +83,7 @@ as well as a CSS input field for padding the text. There is also settings to cus
 #### OmniaX Tool Viewer
 
 The tool viewier is a functionality that is used for managing documents that are connected to our processes. 
+
 .. image:: tools-view.png
 
 Along side the process tool, we can also view which heading and 33fgfunction the documents belong to. The tool viewer has multiple configurations and options: 
@@ -89,8 +91,6 @@ Along side the process tool, we can also view which heading and 33fgfunction the
 .. image:: tools-view-settings.png
 
 - Tools Viewier Title allows us to select the title of our tool viewer and gives the option to always display it or not.
-- QMS Tag Text.... -- FYll -- 
-- Always show template... -- FYLL --
 - Show all documents displays an expandable tab at the end of the tool viewer that allows us to see the documents that are attached to the other processes, and not only the currently selected process:
 
 .. image:: document-map.png
@@ -103,8 +103,8 @@ Along side the process tool, we can also view which heading and 33fgfunction the
 
 - Show first level sub process is connected to Aggregated view. It allows the user to have to fold/unfold tab, but only displays the name of the first level sub process. 
 For example if you have a process named Development, and this process has a sub-process that is named Apps that have documents in it. Show first level sub process will only display Development instead of Development - Apps in the tab.
+
 - Show links allows the user to view the links that are connected to the documents of the selected process or sub-process.
-- Open tool by office online --- FYLL --
 - Read documents mode allows the user to view and create documents. 
 - Disable create disables the ability to create documents in this tools viewer.
 - Style Margin CSS Text allows the user to modify the styling of the text display in the tools viewer.

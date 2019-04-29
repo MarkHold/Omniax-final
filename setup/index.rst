@@ -43,10 +43,7 @@ Project-sites Setup
  
 12. Go To Omnia Admin > Site Templates > Add template. 
 
-.. image:: site-template-settings-general.png
-
-.. image:: testprocess.png
-
+.. image:: site-template-setting-general.png
 
 13. Name the template “site template 1”. 
 
@@ -60,23 +57,19 @@ Project-sites Setup
 
 18. Go to the features tab and make sure that these Site Collection and Site features are checkmarked:  
 
-    ![Site collection](sitecollection-features-sitetemplate.png) 
-    ![Site](site-features-sitetemplate.png)
+.. image:: sitecollection-feature-sitetemplate.png
 
-.. image:: sitecollection-features-sitetemplate.png
-.. image:: site-features-sitetemplate.png
+.. image:: site-feature-sitetemplate.png
 
 
 19. Go to the properties tab and add the properties you wish your project-site template to have. An example would be the following: 
 
-    ![Site Template Properties](site-template-properties.png)
 
-.. image:: site-template-properties.png
+.. image:: site-template-property.png
 
 
 20. Go to Document Metadata. 
     
-    ![Omnia admin](omnia-admin.png)
 
 .. image:: omnia-admin.png
 
@@ -84,15 +77,12 @@ Project-sites Setup
 
 22. Select site template 1 that we created earlier.
 
-    ![omnia site template properties](omnia-site-template-fields.png)
 
-.. image:: omnia-site-template-fields.png
+.. image:: omnia-sitetemplate-fields.png
 
 23. Select all the fields that we created earlier, then click save.
 
-    ![omnia site template properties](site-template-fields.png)
-
-.. image:: site-template-fields.png
+.. image:: site-template-field.png
 
 24. The next step is to create a new site for our project sites. Go to the intranet homepage where you have your Omnia QMS setup and click on my sites button, then create new site. 
 
