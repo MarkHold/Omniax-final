@@ -2,12 +2,12 @@ Document Managment
 ===========================
 Projectsites also provides the ability to manage documents using metadata.
 
-.. image:: departments.png
+.. image:: the-departments.png
 
 Usually once the document is uploaded by a user, the user has to then tag the documents with different tags in order to simplify 
 the search and sort of these documents, which can in of itself be a complicated process. With project-sites we simplify this by using columns as seen above in order to sort document by their metadata, which is specificied by the user in the Document Metadata functionality that is found in Omnia Admin.
 
-.. image:: meta-data.png
+.. image:: the-meta-data.png
 
 Document metadata automatically gives each uploaded document by the tool viewer metadata that the user has defined.
 An example of how this is works is when the user provides a process step field in the document metadata. 
