@@ -38,7 +38,7 @@ After adding it as a component, we can configure it using the following options:
 - Tab settings - Show Description Tab is a function that allows us to see the description of a process.
 - Tab settings - Show Details Tab is a function that allows us to see details and information about a process, and we also recieve the option to export the process as we can see in the example below:
 
-.. image:: processtab.png
+.. image:: process-details.png
 
 - Tab settings - Show Tool Tab allows us to preview the documents that are attached to a specific process as seen in the example below: 
 
