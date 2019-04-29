@@ -11,4 +11,4 @@ Topics
    :titlesonly:
 
    introduction/index
-   project-sites/index
+   projectsites/index
