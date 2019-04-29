@@ -3,14 +3,14 @@ Project-sites Setup
 
 Prerequisites
 ---------------------------------------------------------
-**Note!** In order to be able to use project-sites, you need to have the extension zip file �OmniaX.ProjectSites.zip� and have an Omnia QMS project already setup. 
+**Note!** In order to be able to use project-sites, you need to have the extension zip file OmniaX.ProjectSites.zip and have an Omnia QMS project already setup.
 
 Install and Setup Project Sites
 ---------------------------------------------------------
 
 1.  Go to Omnia Admin > System.
 
-2. Register this extension. This is done by first registering the extensionId which can be found inside the zip file, under �extension.json�.  
+2. Register this extension. This is done by first registering the extensionId which can be found inside the zip file, under extension.json.
  
 3. Go back to System  > Extensions, and Upload the OmniaX.ProjectSites.zip file. 
 
@@ -33,10 +33,10 @@ Install and Setup Project Sites
  
 10. Make sure that the following site collection scoped features are activated:  
 - Omnia Core Master Page. 
-- OmniaX Project Site � Provision Document Fields. 
+- OmniaX Project Site Provision Document Fields.
 - Omnia Legacy Support. 
 - Omnia SPFx Infrastructure. 
-- OmniaX Project Site � Provision Webpart. 
+- OmniaX Project Site Provision Webpart.
 
 11. Make sure that the following site scoped features are activated: 
 - Omnia Team Site - Prerequisites
