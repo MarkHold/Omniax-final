@@ -1,15 +1,16 @@
 Project-sites Setup 
 ===========================
 
-###  Prerequisites
+Prerequisites
+---------------------------------------------------------
+**Note!** In order to be able to use project-sites, you need to have the extension zip file ï¿½OmniaX.ProjectSites.zipï¿½ and have an Omnia QMS project already setup. 
 
-**Note!** In order to be able to use project-sites, you need to have the extension zip file “OmniaX.ProjectSites.zip” and have an Omnia QMS project already setup. 
+Install and Setup Project Sites
+---------------------------------------------------------
 
-### Install and Setup Project Sites 
- 
-1.  Go to Omnia Admin > System.  
+1.  Go to Omnia Admin > System.
 
-2. Register this extension. This is done by first registering the extensionId which can be found inside the zip file, under “extension.json”.  
+2. Register this extension. This is done by first registering the extensionId which can be found inside the zip file, under ï¿½extension.jsonï¿½.  
  
 3. Go back to System  > Extensions, and Upload the OmniaX.ProjectSites.zip file. 
 
@@ -32,10 +33,10 @@ Project-sites Setup
  
 10. Make sure that the following site collection scoped features are activated:  
 - Omnia Core Master Page. 
-- OmniaX Project Site – Provision Document Fields. 
+- OmniaX Project Site ï¿½ Provision Document Fields. 
 - Omnia Legacy Support. 
 - Omnia SPFx Infrastructure. 
-- OmniaX Project Site – Provision Webpart. 
+- OmniaX Project Site ï¿½ Provision Webpart. 
 
 11. Make sure that the following site scoped features are activated: 
 - Omnia Team Site - Prerequisites
@@ -45,7 +46,7 @@ Project-sites Setup
 
 .. image:: site-template-setting-general.png
 
-13. Name the template “site template 1”. 
+13. Name the template site template 1.
 
 14. Make sure to have the language selected as your prefered language. 
 

@@ -17,7 +17,8 @@ There is also a filtering option that can be used to view documents of a specifi
 Here we can filter the documents by function, owned by, type of document and security class. These metadata fields have been specified by the user to be included in all documents that
 are created using projectsites.
 
-#### Configuration
+Configuration
+---------------------------------------------------------
 
 The search page functionality comes with multiple configuraion options that can be used to personalize and improve the user experience:
 

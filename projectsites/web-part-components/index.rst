@@ -16,7 +16,8 @@ In order to access these components, follow these steps:
 
 .. image:: web-comp.png
 
-#### OmniaX Process Viewier
+OmniaX Process Viewier
+---------------------------------------------------------
 
 Process Viewier is a tool that is used to view a process or multiple processes. 
 
@@ -61,7 +62,8 @@ Here we can see and customize the colors of every part of the process viewier. A
 
 Once we click on the magic wand of the process that we would like to style, a process styling pop-up will be revealed. It allows the user to change the background color of the process, the text color and the size of the process component. The pop-up also contains an option that is called advanced mode, which allows the user to do all that was previously mentioned, but in CSS-code. 
 
-#### OmniaX Site Properties Viewer
+OmniaX Site Properties Viewer
+---------------------------------------------------------
 
 Site properties viewer allows the user to display site properties that have been provided when creating the site.
 
@@ -70,7 +72,8 @@ Site properties viewer allows the user to display site properties that have been
 These properties can also be find under Site Quick Edit > Site Properties. There is also the option to customise the site properties viewer colors in the custom colors tab that can be found in the viewer settings:
 
    
-#### OmniaX Task Viewer
+OmniaX Task Viewer
+---------------------------------------------------------
 
 Task viewer is a component that allows the user to display tasks that are conneced to the selected process. It provides the follow options:
 
@@ -80,7 +83,8 @@ The task viewer settings provide the options of changing the task viewer title a
 as well as a CSS input field for padding the text. There is also settings to customise the colors of the task viewer in the Custom Colors tab.
 
 
-#### OmniaX Tool Viewer
+OmniaX Tool Viewer
+---------------------------------------------------------
 
 The tool viewier is a functionality that is used for managing documents that are connected to our processes. 
 
