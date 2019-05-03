@@ -12,4 +12,4 @@ Topics
 
    introduction/index
    projectsites/index
-   bigpicture/index
+   big-picture/index
