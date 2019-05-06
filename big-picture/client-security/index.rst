@@ -56,8 +56,8 @@ Additional Security
 
 **Browser Startpage** 
 
-The browser should have the startpage set to the page of big picture. Using the query string fullscreen=true (For example “https://tenant.sharepoint.com?fullscreen=true#/start/big-picture”) will cause big picture to go into full screen mode automatically.
- This will enable the computer to be rebooted but still end up on the correct page and put the browser in the correct mode.
+The browser should have the startpage set to the page of big picture. Using the query string fullscreen=true (For example https://tenant.sharepoint.com?fullscreen=true#/start/big-picture) will cause big picture to go into full screen mode automatically.
+This will enable the computer to be rebooted but still end up on the correct page and put the browser in the correct mode.
 
 **O365 Security**
 
