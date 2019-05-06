@@ -1,4 +1,4 @@
-Client security And Recommendation
+Client Security and Recommendation
 ======================
 
 Running Big Screen in a public space is sometimes necessary. It can bring a lot of benifits, but there a few things to be considered.
@@ -11,7 +11,6 @@ or even damege, therefore we recommend that the device itself should be locked i
 and is connected to the monitor that displays big screen wirelessly. this can be done through chromecast, or if its a smart tv then the computer can connect to it using bluetooth.
 Make sure to lock the screen after activating Big Screen for an extra secure usage. 
 
-
 Network security
 ---------------------------
 
@@ -20,12 +19,10 @@ the device or devices that will be runnin big picture. This network should have 
 Another alternative is to use a dedicated network, that is completly seperate from the company network for this device. Such options can be purchased at service-providers 
 and often comes in the form of a USB stick or router that will be soly connected to the device running Big Picture.
 
-
 Recommend ways to setup Big Picture
 ---------------------------------------------------
 
 Since Big Picture can be seen as an only-display extension, meaning that it does not require much or any user interaction once its setup, therefore we recommend a few ways to set it up:
-
 
 **Operating system level Kiosk Mode (Recommended)**
 
@@ -48,21 +45,19 @@ is to Navigate to the Big Screen page in Sharepoint, and launch Big Screen.
 
 In order to remove the kiosk account, go to Settings > Accounts > Other people > Set up assigned Access > Click Turn off assigned access and sign out of the selected account.
 
-**Browser-level Kiosk Mode**
+**Alternative: Browser-level Kiosk Mode (Not Recommended)**
 
-Basic Kiosk Mode is a kiosk mode that is implemented in the browser Google chrome. it allows the user 
-
-
-**Browser security and tips and tricks**
+Browsers, such as Google Chrome offer a browser level kiosk, in which the browser will be entered into full screen mode and give a similar look to that of Operating System kiosk mode. 
+The main perk with this feature is that it is much easier to setup and get started with than operating system level kiosk mode, but the reason this is not recommended is because the user can exit this mode in multiple ways and gain full access to the device. Therefore it makes it a non secure
+method to use in public spaces where non-personal can access the device.
 
 Additional Security
 ---------------------------------------------
 
-**Startpage** 
+**Browser Startpage** 
 
 The browser should have the startpage set to the page of big picture. Using the query string fullscreen=true (For example “https://tenant.sharepoint.com?fullscreen=true#/start/big-picture”) will cause big picture to go into full screen mode automatically.
  This will enable the computer to be rebooted but still end up on the correct page and put the browser in the correct mode.
-
 
 **O365 Security**
 

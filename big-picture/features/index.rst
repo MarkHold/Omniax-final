@@ -13,11 +13,15 @@ News Display
 
 In order to access the news settings, enter edit mode once again, and this time click on the cog wheel 
 in the full screen component that you placed in your page.
-
-  ![Floating panel](news-settings.png)
+  
+Big Picture allows the user to display news from a provided news center that is connected to the user's intranet. 
+The user can also choose the period of which news will be displaye, how the articles will be ordered, the limit of the amounts of articles at a time and the priority.
 
 Images Display
 -------------------------------------------
+
+Images display is found in the second tab and allows the user to link an image folder that has images uploaded to the sharepoint website, and have these images displayed
+in a specific order and at specific speed.
 
 Video Display
 -------------------------------------------
@@ -27,8 +31,6 @@ Video display can be found in the third tab that is called Videos Settings where
 We recommend the use of youtube over microsoft as it reduces the chances of performance issues when this functionality is used on an older device 
 that might have less performance capabilities. In order to display a video setting, make sure to enter a valid youtube url in the video location field. An example of a valid url is:
 https://www.youtube.com/watch?v=LhC5PtMWNVo.
-
-  ![Floating panel](video.png)
 
 Video settings provides the option to include a video title, a specific start time and end time of the video as well as the ability to add multiple videos. 
 
