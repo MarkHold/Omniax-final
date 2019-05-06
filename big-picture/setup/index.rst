@@ -39,7 +39,5 @@ Now that big picture is sucessfully installed, we will set it up in a page of it
 - Scroll down to OmniaX and drag and drop the Fullscreen Viewer component on the top left Web part.
 - Click on the cogwheel to configure the web part and then click on save then publish when finished. 
 
-The manual for features and configuration functions can be found
-
-`here
+The manual for features and configuration functions can be found `here
 <https://omniax-docs.readthedocs.io/en/latest/big-picture/features/index.html>`_.
