@@ -31,14 +31,13 @@ In case of an error, make sure to check the spelling of the sentence above, as t
 Now that kiosk mode is up and running, it can be used by logging into the Kiosk user account which will automatically launch Microsoft Edge.
 
 **Things to keep in mind**
-- The browser should have the startpage set to the page of big picture. Using the query string fullscreen=true (For example “ https://tenant.sharepoint.com?fullscreen=true#/start/big-picture ”) will cause big picture to go into full screen mode automatically.
- This will enable the computer to be rebooted but still end up on the correct page and put the browser in the correct mode.
+
+- The browser should have the startpage set to the page of big picture. Using the query string fullscreen=true (For example https://tenant.sharepoint.com?fullscreen=true#/start/big-picture) will cause big picture to go into full screen mode automatically. This will enable the computer to be rebooted but still end up on the correct page and put the browser in the correct mode.
 - Some TV's might have settings to go into sleep mode or turn off when there is no activity. Make sure to check the TV for such configuration.
 - Make sure to change the computers settings for when to go into sleep mode or shutdown after no activity to "never".
-- Windows auto-update can cause the devices that are running Big Screen to automatically restart. This should be disabled on the devices 
-that will run Big Picture. The instructions on how to disable it can be found here https://www.windowscentral.com/how-stop-updates-installing-automatically-windows-10
+- Windows auto-update can cause the devices that are running Big Screen to automatically restart. This should be disabled on the devices that will run Big Picture. The instructions on how to disable it can be found here https://www.windowscentral.com/how-stop-updates-installing-automatically-windows-10
 
-In order to remove the kiosk account, go to Settings > Accounts > Other people > Click on the Kiosk Account then remove: 
+**Note** In order to remove the kiosk account, go to Settings > Accounts > Other people > Click on the Kiosk Account then remove:
 
 .. image:: kiosk-remove.png
 
@@ -67,10 +66,6 @@ and often comes in the form of a USB stick or router that will be soly connected
 
 Additional Security
 ---------------------------------------------
-**Browser Startpage** 
-
-The browser should have the startpage set to the page of big picture. Using the query string fullscreen=true (For example https://tenant.sharepoint.com?fullscreen=true#/start/big-picture) will cause big picture to go into full screen mode automatically.
-This will enable the computer to be rebooted but still end up on the correct page and put the browser in the correct mode.
 
 **O365 Security**
 
