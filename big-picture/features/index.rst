@@ -7,7 +7,6 @@ source on the big screen, image display which allows the user to display an imag
 video displayer which allows the user to display a video from youtube
 or microsoft stream, as well as a page display that can display a page created using omnia sharepoint.
 
-
 News Display
 -------------------------------------------
 

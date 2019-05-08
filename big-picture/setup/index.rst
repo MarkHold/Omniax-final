@@ -1,7 +1,7 @@
 Setup
 ===========================
 
-Prerequisit
+Prerequisite
 ----------------------------
 
 In order to setup and configrue Big picture, a zip file with the name omniax_bigpicture.zip is required.
